@@ -1,6 +1,5 @@
-import React, { ReactNode } from 'react'
+import { ReactNode } from 'react'
 import { PatientState } from '../App';
-import { FormHandle } from './form';
 
 
 type PatientProps= {
